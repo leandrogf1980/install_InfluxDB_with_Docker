@@ -15,5 +15,4 @@ No terminal do Linux, executar o comando **`sudo dockerd`** para inicializar o D
 4- Iniciar o container do Influxdb.  
 **`sudo docker start influxdb`**
 
-Obs.: Sempre ao inicializar o Docker, precisa iniciar o container do Influxdb.  
-**`sudo docker start influxdb`**
+Obs.: Sempre ao inicializar o Docker e for trabalhar com o InfluxDB, precisa iniciar o container do InfluxDB (passo anterior).
